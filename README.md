@@ -106,4 +106,4 @@ This loopback-style testing validates both UART reception and transmission on FP
 This project demonstrates a complete UART implementation on FPGA using Verilog. The design correctly handles asynchronous serial communication, including baud rate timing, start and stop bit handling, and LSB-first data transfer.
 
 The modular architecture and real hardware testing make this project suitable for learning, debugging, and integration into larger digital systems.
- src="https://github.com/user-attachments/assets/c41aef3f-01ee-47db-9fee-e8be81d282a4" />
+<img width="1916" height="1010" alt="Screenshot 2025-12-17 155045" src="https://github.com/user-attachments/assets/52b3fcca-b910-46e7-ac01-59632b43cbb8" />
